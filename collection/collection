@@ -1,0 +1,9 @@
+collection = single "variable" used to store multiple values
+
+List = [] ordered and changeable. Duplicates OK
+
+Set = {} unordered and immutable, but add/remove ok. no Duplicates
+
+Tuple = () ordered and unchangeable. duplicates ok. faster.
+
+2D list is a list made up of list.
